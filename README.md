@@ -1,11 +1,11 @@
-# c9-sinatra-setup
+# lhl-fizz-buzz 
 
-_Hello, world!_ Sinatra app for quick classroom demos on Cloud9
+W3D1 Fizz Buzz demo for lighthouselabs.com
 
 # Clone this repository into a new workspace
 
 ```
-https://github.com/RaphaelDeLaGhetto/c9-sinatra-setup.git
+https://github.com/RaphaelDeLaGhetto/lhl-fizz-buzz.git
 ```
 
 # Install dependencies
