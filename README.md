@@ -2,7 +2,7 @@
 
 W3D1 Fizz Buzz demo for lighthouselabs.com
 
-# Clone this repository into a new workspace
+# Clone this repository into a new Cloud9 workspace
 
 ```
 https://github.com/RaphaelDeLaGhetto/lhl-fizz-buzz.git
