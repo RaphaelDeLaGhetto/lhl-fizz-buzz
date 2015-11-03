@@ -1,6 +1,6 @@
 # lhl-fizz-buzz 
 
-W3D1 Fizz Buzz demo for lighthouselabs.com
+W3D1 Fizz Buzz demo for [lighthouselabs.com](http://lighthouselabs.com).
 
 # Clone this repository into a new Cloud9 workspace
 
